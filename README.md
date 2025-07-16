@@ -1,25 +1,21 @@
- My Open Source Contributions
- 
-Here are some of my open-source contributions to popular frameworks and tools:
+My Open Source Contributions
 
-[FastAPI](https://github.com/tiangolo/fastapi) 
+Here are some of my open-source contributions to popular frameworks and tools:  
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) 
+[FastAPI](https://github.com/tiangolo/fastapi) 🐛 Reproduced bug in form metadata with `Depends()`
 
- Reproduced bug in form metadata with `Depends()` 
+---
 
-![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASR1015&show_icons=true&theme=github_dark)
+### 🛠️ Technologies Used
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/>
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASR1015&show_icons=true&theme=dark)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Anushka_10?ext=heatmap)](https://leetcode.com/Anushka_10/)
 
- GitHub Stats
-
-![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASR1015&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASR1015&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ASR1015&theme=github-dark&hide_border=true)
