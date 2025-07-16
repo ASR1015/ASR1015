@@ -1,7 +1,10 @@
-## 🚀 My Open Source Contributions
+ My Open Source Contributions
 Here are some of my open-source contributions to popular frameworks and tools:
-| [FastAPI](https://github.com/tiangolo/fastapi) 
+
+[FastAPI](https://github.com/tiangolo/fastapi) 
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) 
+
 | 🐛 Reproduced bug in form metadata with `Depends()` |
 
 ![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASR1015&show_icons=true&theme=github_dark)
@@ -12,7 +15,7 @@ Here are some of my open-source contributions to popular frameworks and tools:
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### 📊 GitHub Stats
+ GitHub Stats
 
 ![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASR1015&show_icons=true&theme=github_dark)
 
