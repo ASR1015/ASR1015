@@ -1,9 +1,10 @@
- Open Source Contributions
+# Open Source Contributions
+
+[![](https://img.shields.io/badge/PRs-FastAPI-green)](https://github.com/tiangolo/fastapi/pull/13898)
 
 | Project | Contribution |
 
- [FastAPI](https://github.com/tiangolo/fastapi) [🛠️ Reproduced bug in form metadata with `Depends()`](https://github.com/fastapi/fastapi/pull/13898) 
-
+| [FastAPI](https://github.com/tiangolo/fastapi) | 🐞 Reproduced bug in form metadata with `Depends()` |
 <!--
 **ASR1015/ASR1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
